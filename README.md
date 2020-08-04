@@ -5,4 +5,4 @@ I'm roney. I like working on javascript, html and pentesting. I also usually dev
 #### me on social media
 
 - Discord: [roney#1337](https://discord.com/users/425722455345070080)
-- Site: [roney.cf](http://roney.cf/)
+- Site: [theroney.dev](https://theroney.dev/)
